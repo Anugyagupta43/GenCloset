@@ -30,7 +30,7 @@ Or “Can I make this description ✨cuter✨?”
 
 | Tech | Role |
 |------|------|
-| **Streamlit** | Sleek and interactive Barbie-tier UI |
+| **Streamlit** | Sleek and interactive GenZ-tier UI |
 | **Hugging Face Transformers** | NLP magic with `flan-t5-base` |
 | **Pandas** | For datavore vibes (we snack on CSVs) |
 
